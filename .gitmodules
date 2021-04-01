@@ -1,0 +1,3 @@
+[submodule "pyifcb"]
+	path = pyifcb
+	url = https://github.com/joefutrelle/pyifcb.git
